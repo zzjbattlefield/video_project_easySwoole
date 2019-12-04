@@ -1,0 +1,155 @@
+[2019-10-31 19:17:43 *31236.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 *31235.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 *31234.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 *31233.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 *31232.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 *31231.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 *31230.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 *31229.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 ^31228.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 ^31227.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 ^31226.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 ^31225.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 ^31224.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 ^31223.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 ^31222.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 ^31221.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 $31219.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-10-31 19:17:43 $31219.0]	WARNING	swManager_check_exit_status: worker#16[pid=31237] abnormal exit, status=0, signal=1
+[2019-10-31 19:17:43 #31218.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 10:32:49 #31218.1]	INFO	Server is shutdown now
+[2019-11-01 13:56:12 *3838.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 *3839.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 *3842.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 ^3834.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 *3841.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 ^3829.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 ^3835.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 ^3831.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 ^3830.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 ^3833.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 ^3836.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 *3840.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 *3843.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 ^3832.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 *3837.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 $3827.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 $3827.0]	WARNING	swManager_check_exit_status: worker#16[pid=3845] abnormal exit, status=0, signal=1
+[2019-11-01 13:56:12 #3826.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 13:56:12 *3844.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 *10353.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 *10349.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 *10348.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 ^10345.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 *10346.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 #10335.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 *10350.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 ^10344.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 *10351.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 ^10343.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 *10352.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 *10347.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 $10336.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 $10336.0]	WARNING	swManager_check_exit_status: worker#16[pid=10354] abnormal exit, status=0, signal=1
+[2019-11-01 14:41:39 ^10338.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 ^10340.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 ^10341.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 ^10339.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-01 14:41:39 ^10342.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-02 12:26:04 #3826.1]	INFO	Server is shutdown now
+[2019-11-30 18:59:07 *31305.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 #31287.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 *31300.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 *31302.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 *31301.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 *31298.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 ^31296.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 ^31293.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 *31304.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 ^31295.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 *31299.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 ^31294.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 *31303.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 ^31297.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 ^31290.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 $31288.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 $31288.0]	WARNING	swManager_check_exit_status: worker#16[pid=31306] abnormal exit, status=0, signal=1
+[2019-11-30 18:59:07 ^31292.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 18:59:07 ^31291.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-30 22:08:45 #31287.1]	INFO	Server is shutdown now
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+[2019-11-30 23:01:24 #12104.1]	INFO	Server is shutdown now
+[2019-12-01 01:18:41 *19474.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 *19473.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 *19472.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 *19471.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 *19470.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 *19469.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 *19468.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 *19467.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 ^19465.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 ^19463.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 ^19461.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 ^19460.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 ^19459.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 ^19458.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 ^19457.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 $19455.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 #19454.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 ^19462.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-01 01:18:41 $19455.0]	WARNING	swManager_check_exit_status: worker#16[pid=19475] abnormal exit, status=0, signal=1
+[2019-12-01 22:14:04 #19454.1]	INFO	Server is shutdown now
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+[2019-12-01 22:32:31 #12818.1]	INFO	Server is shutdown now
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+[2019-12-04 14:57:17 #15446.1]	INFO	Server is shutdown now
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+[2019-12-04 18:05:31 #11051.1]	INFO	Server is shutdown now
+[2019-12-04 19:00:06 *5901.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 *5900.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 *5899.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 *5898.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 *5897.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 *5896.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 *5895.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 *5894.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 ^5893.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 ^5892.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 ^5891.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 ^5890.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 ^5889.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 ^5888.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 ^5887.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 ^5886.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 $5884.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 19:00:06 $5884.0]	WARNING	swManager_check_exit_status: worker#16[pid=5902] abnormal exit, status=0, signal=1
+[2019-12-04 19:00:06 #5883.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 22:01:38 #5883.1]	INFO	Server is shutdown now

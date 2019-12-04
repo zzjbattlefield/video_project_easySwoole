@@ -1,0 +1,165 @@
+19-12-01 22:14:00:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[115] message:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:8000], Error: Address already in use[98] in /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php:115
+Stack trace:
+#0 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(115): Swoole\Server->__construct('0.0.0.0', 8000, 2, 1)
+#1 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#2 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#3 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#4 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(25): serverStart(Array)
+#5 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(462): commandHandler()
+#6 /data/www/swoole/easyswoole/easyswoole(2): require('/data/www/sw]
+19-12-01 22:14:05:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:14:05:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:14:05:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:14:05:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:14:05:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:14:05:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:14:05:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:14:05:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:32:31:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:32:31:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:32:31:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:32:31:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:32:31:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:32:31:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:32:31:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-01 22:32:31:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 14:57:18:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 14:57:18:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 14:57:18:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 14:57:18:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 14:57:18:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 14:57:18:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 14:57:18:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 14:57:18:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:05:31:Error at file[/data/www/swoole/easyswoole/EasySwooleEvent.php] line[24] message:[Non-static method EasySwoole\EasySwooleEvent::loadConf() should not be called statically]
+19-12-04 18:05:31:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Undefined index: host]
+19-12-04 18:05:31:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Undefined index: port]
+19-12-04 18:05:31:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Undefined index: time_out]
+19-12-04 18:05:31:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Redis::connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known]
+19-12-04 18:05:31:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[19] message:[Uncaught Exception: redis服务异常 in /data/www/swoole/easyswoole/App/Lib/Redis/Redis.php:19
+Stack trace:
+#0 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): app\Lib\Redis\Redis->__construct()
+#1 /data/www/swoole/easyswoole/EasySwooleEvent.php(48): app\Lib\Redis\Redis::getInstance()
+#2 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/www/swoole/easyswoole/vendor/easyswoole/eas]
+19-12-04 18:05:31:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[19] message:[Uncaught Exception: redis服务异常 in /data/www/swoole/easyswoole/App/Lib/Redis/Redis.php:19
+Stack trace:
+#0 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): app\Lib\Redis\Redis->__construct()
+#1 /data/www/swoole/easyswoole/EasySwooleEvent.php(48): app\Lib\Redis\Redis::getInstance()
+#2 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/www/swoole/easyswoole/vendor/easyswoole/eas]
+19-12-04 18:08:02:Error at file[/data/www/swoole/easyswoole/EasySwooleEvent.php] line[24] message:[Non-static method EasySwoole\EasySwooleEvent::loadConf() should not be called statically]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:08:12:Error at file[/data/www/swoole/easyswoole/EasySwooleEvent.php] line[24] message:[Non-static method EasySwoole\EasySwooleEvent::loadConf() should not be called statically]
+19-12-04 18:09:21:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:21:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:21:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:21:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:21:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:21:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:21:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:21:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:40:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:40:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:40:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:40:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:40:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:40:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:40:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 18:09:40:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:01:38:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Undefined index: host]
+19-12-04 22:01:38:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Undefined index: port]
+19-12-04 22:01:38:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Undefined index: time_out]
+19-12-04 22:01:38:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Redis::connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known]
+19-12-04 22:01:38:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[19] message:[Uncaught Exception: redis服务异常 in /data/www/swoole/easyswoole/App/Lib/Redis/Redis.php:19
+Stack trace:
+#0 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): app\Lib\Redis\Redis->__construct()
+#1 /data/www/swoole/easyswoole/EasySwooleEvent.php(48): app\Lib\Redis\Redis::getInstance()
+#2 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/www/swoole/easyswoole/vendor/easyswoole/eas]
+19-12-04 22:01:38:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[19] message:[Uncaught Exception: redis服务异常 in /data/www/swoole/easyswoole/App/Lib/Redis/Redis.php:19
+Stack trace:
+#0 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): app\Lib\Redis\Redis->__construct()
+#1 /data/www/swoole/easyswoole/EasySwooleEvent.php(48): app\Lib\Redis\Redis::getInstance()
+#2 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/www/swoole/easyswoole/vendor/easyswoole/eas]
+19-12-04 22:02:57:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Redis::connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known]
+19-12-04 22:02:57:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[19] message:[Uncaught Exception: redis服务异常 in /data/www/swoole/easyswoole/App/Lib/Redis/Redis.php:19
+Stack trace:
+#0 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): app\Lib\Redis\Redis->__construct()
+#1 /data/www/swoole/easyswoole/EasySwooleEvent.php(48): app\Lib\Redis\Redis::getInstance()
+#2 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run()
+#6 /data/www/swoole/easyswoole/vendor/easyswoole/eas]
+19-12-04 22:03:29:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Redis::connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known]
+19-12-04 22:03:29:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[20] message:[Uncaught Exception: php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/www/swoole/easyswoole/App/Lib/Redis/Redis.php:20
+Stack trace:
+#0 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): app\Lib\Redis\Redis->__construct()
+#1 /data/www/swoole/easyswoole/EasySwooleEvent.php(48): app\Lib\Redis\Redis::getInstance()
+#2 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run(]
+19-12-04 22:04:49:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[18] message:[Redis::connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known]
+19-12-04 22:04:49:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[21] message:[Uncaught Exception: php_network_getaddresses: getaddrinfo failed: Name or service not known in /data/www/swoole/easyswoole/App/Lib/Redis/Redis.php:21
+Stack trace:
+#0 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/AbstractInterface/Singleton.php(18): app\Lib\Redis\Redis->__construct()
+#1 /data/www/swoole/easyswoole/EasySwooleEvent.php(48): app\Lib\Redis\Redis::getInstance()
+#2 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(130): EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\Core\Swoole\ServerManager), Object(EasySwoole\Core\Swoole\EventRegister))
+#3 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php(61): EasySwoole\Core\Swoole\ServerManager->createMainServer()
+#4 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Core.php(45): EasySwoole\Core\Swoole\ServerManager->start()
+#5 /data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/bin/easyswoole(326): EasySwoole\Core\Core->run(]
+19-12-04 22:05:10:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:05:10:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:05:10:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:05:10:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:05:10:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:05:10:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:05:10:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:05:10:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:06:24:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:06:24:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:06:24:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:06:24:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:06:24:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:06:24:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:06:24:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:06:24:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:07:11:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:07:11:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:07:11:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:07:11:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:07:11:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:07:11:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:07:11:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:07:11:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/App/Lib/Redis/Redis.php] line[17] message:[Undefined index: time_out]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+19-12-04 22:09:42:Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
