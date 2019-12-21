@@ -34,8 +34,8 @@ class Base extends Controller
      * @return json
      * @Description
      */
-    public function onException(\Throwable $throwable,$actionName):void
-    {
-        $this->writeJson(400,'请求不合法');
-    }
+    // public function onException(\Throwable $throwable,$actionName):void
+    // {
+    //     $this->writeJson(400,'请求不合法');
+    // }
 }

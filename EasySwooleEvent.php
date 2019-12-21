@@ -8,6 +8,7 @@
 
 namespace EasySwoole;
 
+use App\Lib\Process\ConsumerTest;
 use \EasySwoole\Core\AbstractInterface\EventInterface;
 use \EasySwoole\Core\Swoole\ServerManager;
 use \EasySwoole\Core\Swoole\EventRegister;
@@ -16,6 +17,7 @@ use \EasySwoole\Core\Http\Response;
 use \EasySwoole\Core\Component\Di;
 use \App\Lib\Redis\Redis;
 use \EasySwoole\Core\Utility\File;
+use \EasySwoole\Core\Swoole\Process\ProcessManager;
 Class EasySwooleEvent implements EventInterface {
 
     public static function frameInitialize(): void
@@ -46,6 +48,10 @@ Class EasySwooleEvent implements EventInterface {
             'charset' => 'utf8')
         );
         Di::getInstance()->set('REDIS',Redis::getInstance());
+        $allNum = 3;
+        for ($i = 0 ;$i < $allNum;$i++){
+            ProcessManager::getInstance()->addProcess("consumer_{$i}",ConsumerTest::class);
+        }
         // TODO: Implement mainServerCreate() method.
     }
 

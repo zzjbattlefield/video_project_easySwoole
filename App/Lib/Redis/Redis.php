@@ -14,7 +14,7 @@ class Redis {
         try{
             $this->redis = new \Redis();
             $redisConfig = \Yaconf::get('redis');
-            $result = $this->redis->connect($redisConfig['host'],$redisConfig['port'],$redisConfig['time_out']);
+            $this->redis->connect($redisConfig['host'],$redisConfig['port'],$redisConfig['time_out']);
         }catch(\Exception $e){
             throw new \Exception("redis服务异常");
             // throw new \Exception($e->getMessage());
@@ -34,6 +34,20 @@ class Redis {
             return '';
         }
         return $this->redis->get($key);
+    }
+
+    public function lPop($key){
+        if(empty($key)){
+            return '';
+        }
+        return $this->redis->lPop($key);
+    }
+
+    public function rPush($key,$value){
+        if(empty($key)){
+            return '';
+        }
+        return $this->redis->rPush($key,$value);
     }
 
 }

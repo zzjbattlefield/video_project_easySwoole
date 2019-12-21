@@ -153,3 +153,102 @@ Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/
 [2019-12-04 19:00:06 $5884.0]	WARNING	swManager_check_exit_status: worker#16[pid=5902] abnormal exit, status=0, signal=1
 [2019-12-04 19:00:06 #5883.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
 [2019-12-04 22:01:38 #5883.1]	INFO	Server is shutdown now
+[2019-12-04 23:09:20 *17820.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 *17819.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 *17818.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 *17817.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 *17816.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 *17815.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 *17814.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 *17813.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 ^17812.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 ^17811.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 ^17810.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 ^17809.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 ^17808.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 ^17807.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 ^17806.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 ^17805.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 $17803.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 $17803.0]	WARNING	swManager_check_exit_status: worker#17[pid=17822] abnormal exit, status=0, signal=1
+[2019-12-04 23:09:20 $17803.0]	WARNING	swManager_check_exit_status: worker#18[pid=17823] abnormal exit, status=0, signal=1
+[2019-12-04 23:09:20 $17803.0]	WARNING	swManager_check_exit_status: worker#19[pid=17824] abnormal exit, status=0, signal=1
+[2019-12-04 23:09:20 #17802.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-04 23:09:20 $17803.0]	WARNING	swManager_check_exit_status: worker#16[pid=17821] abnormal exit, status=0, signal=1
+[2019-12-05 10:18:49 #17802.1]	INFO	Server is shutdown now
+[2019-12-05 10:19:05 #14463.1]	INFO	Server is shutdown now
+[2019-12-18 18:05:46 *21556.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 #21543.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 ^21548.10]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 ^21553.15]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 *21558.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 ^21546.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 ^21547.9]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 *21560.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 ^21552.14]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 ^21550.12]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 *21555.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 *21559.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 *21554.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 *21557.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 ^21549.11]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 ^21551.13]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 $21544.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:05:46 $21544.0]	WARNING	swManager_check_exit_status: worker#16[pid=21562] abnormal exit, status=0, signal=1
+[2019-12-18 18:05:46 $21544.0]	WARNING	swManager_check_exit_status: worker#17[pid=21563] abnormal exit, status=0, signal=1
+[2019-12-18 18:05:46 $21544.0]	WARNING	swManager_check_exit_status: worker#18[pid=21564] abnormal exit, status=0, signal=1
+[2019-12-18 18:05:46 $21544.0]	WARNING	swManager_check_exit_status: worker#19[pid=21565] abnormal exit, status=0, signal=1
+[2019-12-18 18:05:46 *21561.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 23:33:36 #21543.1]	INFO	Server is shutdown now
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+[2019-12-21 14:25:57 #3384.1]	INFO	Server is shutdown now
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+[2019-12-21 17:43:59 #31904.0]	WARNING	swServer_master_send: connection#58 is closed by client
+[2019-12-21 17:43:59 #31904.0]	WARNING	swServer_master_send: connection#58 is closed by client
+[2019-12-21 17:43:59 #31904.0]	WARNING	swServer_master_send: connection#58 is closed by client
+[2019-12-21 19:53:24 #31904.1]	INFO	Server is shutdown now
+[2019-12-21 22:20:30 #17561.1]	INFO	Server is shutdown now
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+[2019-12-21 22:22:10 #5207.1]	INFO	Server is shutdown now
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[/data/www/swoole/easyswoole/vendor/easyswoole/easyswoole/src/Core/Swoole/ServerManager.php] line[67] message:[Swoole\Server::start(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+Error at file[Unknown] line[0] message:[Swoole\Event::rshutdown(): Using Xdebug in coroutines is extremely dangerous, please notice that it may lead to coredump!]
+[2019-12-21 22:25:14 #5669.1]	INFO	Server is shutdown now

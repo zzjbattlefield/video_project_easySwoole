@@ -13,9 +13,8 @@ class Index extends Base
      * 首页方法
      * @author : evalor <master@evalor.cn>
      */
-    public function viedo()
+    public function video()
     {
-        new abc;
         $data  = [
             'id' => 1,
             'name' => 'imooc'
@@ -38,5 +37,10 @@ class Index extends Base
     public function yaconf(){
         $result = \Yaconf::get('redis');
         return $this->writeJson(200,'ok',$result);
+    }
+
+    public function pub(){
+        $params = $this->request()->getRequestParam();
+        Di::getInstance()->get('REDIS')->rPush('imooc_list_test',$params['f']);
     }
 }
