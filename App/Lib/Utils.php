@@ -17,4 +17,21 @@ class Utils {
         }
         return $str;
     }
+
+    public static function changeSize($type='m',$size){
+        if(!empty($size) && is_numeric($size+0)){
+            switch($type){
+                case 'm' :
+                    $size = $size / (1024*1024);
+                break;
+                case 'k' : 
+                    $size = $size / (1024);
+                break;
+            }
+        }else{
+            $size = 0;
+        }
+        return number_format($size,2);
+        
+    }
 }

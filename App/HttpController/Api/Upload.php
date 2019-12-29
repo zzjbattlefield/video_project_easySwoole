@@ -1,6 +1,7 @@
 <?php
 namespace App\HttpController\Api;
 
+use App\Lib\ClassArr;
 use App\Lib\Upload\Video;
 /**
  * 文件上传 - 视频 文件
@@ -10,9 +11,18 @@ class Upload extends Base
 {
     public function file(){
         $request = $this->request();
+        $files = $request->getSwooleRequest()->files;
+        //上传文件类型
+        $types = array_keys($files);
+        $type = $types[0];
+        if(empty($type)){
+            return $this->writeJson(400,'上传文件不合法');
+        }
         try{
-            $obj = new Video($request);
-            $file = $obj->upload();
+            $classObj = new ClassArr();
+            $classStats = $classObj->uploadClassStat();
+            $uploadObj = $classObj->initClass($type,$classStats,[$request,$type]);
+            $file = $uploadObj->upload();
         }catch(\Exception $e){
             return $this->writeJson(400,$e->getMessage(),[]);
         }

@@ -14,12 +14,15 @@ class Base {
     public $type;
     protected $request;
     protected $size;
-    public function __construct($request){
+    public function __construct($request,$type = null){
         $this->request = $request;
-        $files = $this->request->getSwooleRequest()->files;
-        //上传文件类型
-        $types = array_keys($files);
-        $this->type = $types[0];
+        $this->type = $type;
+        if(empty($this->type)){
+            $files = $this->request->getSwooleRequest()->files;
+            //上传文件类型
+            $types = array_keys($files);
+            $this->type = $types[0];
+        }
     }
 
     /**
@@ -33,7 +36,7 @@ class Base {
             return false;
         }
         $videos = $this->request->getUploadedFile($this->type);
-        $this->size = $videos->getSize();
+        $this->size = Utils::changeSize('m',$videos->getSize());
         // var_dump($this->size);die;
         $this->checkSize();
         $fileName = $videos->getClientFileName();
@@ -41,11 +44,11 @@ class Base {
         
         $this->checkMediaType($videos);
 
+        //获取存放路径
         $savePath = $this->getFile($fileName);
         $flag = $videos -> moveTo($savePath);
-        if(!empty($flag)){
+        if($flag)
             return $this->file;
-        }
     }
 
     /**
@@ -90,9 +93,7 @@ class Base {
      */
     protected function checkSize(){
         if(empty($this->size) || $this->size > $this->maxSize){
-            throw new \Exception("上传{$this->type}文件不合法");
+            throw new \Exception("上传{$this->type}文件大小不合法不能超过{$this->maxSize}M,上传文件的大小为：{$this->size}M");
         }
-        // todo
     }
-
 }

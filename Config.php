@@ -18,7 +18,9 @@ return [
             'task_worker_num' => 8, //异步任务进程
             'task_max_request'=>10,
             'max_request'=>5000,//强烈建议设置此配置项
-            'worker_num'=>8
+            'worker_num'=>8,
+            'buffer_output_size' => 20 * 1024 * 1024,
+            'package_max_length' => 20 * 1024 * 1024,
         ],
     ],
     'DEBUG'=>true,

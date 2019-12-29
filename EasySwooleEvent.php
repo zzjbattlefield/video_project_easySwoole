@@ -48,10 +48,10 @@ Class EasySwooleEvent implements EventInterface {
             'charset' => 'utf8')
         );
         Di::getInstance()->set('REDIS',Redis::getInstance());
-        $allNum = 3;
-        for ($i = 0 ;$i < $allNum;$i++){
-            ProcessManager::getInstance()->addProcess("consumer_{$i}",ConsumerTest::class);
-        }
+        // $allNum = 3;
+        // for ($i = 0 ;$i < $allNum;$i++){
+        //     ProcessManager::getInstance()->addProcess("consumer_{$i}",ConsumerTest::class);
+        // }
         // TODO: Implement mainServerCreate() method.
     }
 
